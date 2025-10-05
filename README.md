@@ -13,9 +13,11 @@
 &emsp;&emsp;&emsp;&emsp;<img src="http://14.103.85.174:8800/rxremote/img/filetransfer.png">       
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;RX’Remote远程文件传输操作展示
 #### 设备链接
-&emsp;&emsp;RX’Remote设备链接非常简单易懂，只要打开设备，输入被控电脑的ID和访问密码即可成功连接。一旦形成连接关系即可马上使用。    
+&emsp;&emsp;RX’Remote设备链接非常简单易懂，只要打开设备，输入被控电脑的ID和访问密码即可成功连接。一旦形成连接关系即可马上使用。   
+&emsp;&emsp;&emsp;&emsp;<img src="http://14.103.85.174:8800/rxremote/img/5.png">  
 #### 设备支持一百台  
 &emsp;&emsp;RX’Remote设备列表容量高达100台，用于同步保存用户经常远程控制的计算机设备，支持更高效灵活地管理多台办公设备   
+&emsp;&emsp;&emsp;&emsp;<img src="http://14.103.85.174:8800/rxremote/img/1.png">  
 #### 自研RXTP对等网络引擎
 &emsp;&emsp;RXTP（Real Time Tranfer Proto）对等网络技术开发传输协议，主要应用于大规模的点对点视频传输，相比于传统的RDP协议和RTMP协议，RTC协议具有抗丢包、低延时、无卡顿的优势。RX’Remote将RTC技术运用到远程协作领域，实现实时通信，包括音视频，图片、文件共享等实时交互的速度提升，同时达到了画面帧率的提升  
 #### 如您对相关技术存在兴趣，可与qq：45536611联系与沟通！
