@@ -1,4 +1,8 @@
 # 《瑞祥远程桌面》软件说明
+## 下载地址
+&emsp;&emsp;<strong>windows版本客户端：</strong><a href="https://cdn6-ydzr.opop113.com/rxremote/RXRemoteSetup_2025_10_05.exe" target="_blank">https://cdn6-ydzr.opop113.com/rxremote/RXRemoteSetup_2025_10_05.exe</a>    
+&emsp;&emsp;<strong>intel芯片组Mac版本客户端：</strong><a href="https://cdn6-ydzr.opop113.com/rxremote/rxremote_x86_2025_09_20.pkg" target="_blank">https://cdn6-ydzr.opop113.com/rxremote/rxremote_x86_2025_09_20.pkg</a>   
+&emsp;&emsp;<strong>M系列芯片Mac版本客户端：</strong><a href="https://cdn6-ydzr.opop113.com/rxremote/rxremote_arm64_2025_09_20.pkg" target="_blank">https://cdn6-ydzr.opop113.com/rxremote/rxremote_arm64_2025_09_20.pkg</a>   
 ## 概述
 &emsp;&emsp;瑞祥远程桌面软件（简称：RX’Remote）是完全国产的一款远程桌面软件。他由瑞祥软件开发的跨平台远程协作软件，支持Windows、macOS、Linux等操作系统，提供简体中文版本。该软件通过设备号关联实现远程控制，支持管理100台设备列表，具备内网穿透、远程开关机、文件传输及语音视频通讯等功能，覆盖IT运维、视觉设计等场景应用。 软件采用自研RXTP对等网络引擎及广域网网络优化技术，实现2K30帧画质输出与4:4:4真彩显示，端到端延迟低于40ms。通过传输引擎和智能编解码技术提升带宽利用率。安全体系包含动态密钥加密、二次验证及敏感操作黑屏保护。     
 ## 软件说明
